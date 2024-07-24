@@ -1,0 +1,13 @@
+#tooltip{  
+    position: absolute;
+    padding: 2px;
+    font: 20px;
+    color: #030303;
+    line-height: 1;
+    padding: 12px;
+    background: #d34127;
+    color: rgb(248, 240, 240);
+} 
+svg{
+    border:0.5px solid #8b4a36;
+}
